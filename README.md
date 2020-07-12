@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 <!--
 **jfreddypuentes/jfreddypuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Ingeniero de software, transformando digitalmente los negocios y la vida de las personas.
+
+He estado envuelto en el proceso de desarrollo de Soluciones TI, Software, Bases de Datos, Servicios Web y Aplicaciones Móviles principalmente, siempre innovando y creando con tecnologías de punta.
+
+Apasionado por la mejora constante, Innovación y búsqueda de conocimiento que aporte soluciones a los problemas y necesidades de nuestra sociedad.
+
+Tecnólogo en Sistematización de Datos. Ingeniero de Sistemas. Scrum Developer Certified. Tutor de Ingeniería Software. Experiencia en Arquitectura y Desarrollo de Software, Cloud Computing, BI y Big Data.
+
+Autor de: Fundamentos de Big Data, Un enfoque práctico.
