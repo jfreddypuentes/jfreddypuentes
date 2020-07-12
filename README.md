@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on software development. (backend)
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning & Deep Learning by myself.
+- 🎓 I'm currently studying data science at university in Colombia.
 - 👯 I’m looking to collaborate on Machine Learning projects and solving real problems.
-- 💬 Ask me about APIs, Java, Python, Cloud computing.
+- 💬 Ask me about APIs, Java, Python, Cloud computing & microservices.
 - 📫 How to reach me: @jfreddypuentes on Twitter
