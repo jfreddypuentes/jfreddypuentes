@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning projects and solving real problems.
 - 💬 Ask me about APIs, Java, Python, Cloud computing, Microservices & NLP.
 - 📫 How to reach me: @jfreddypuentes on Twitter
+
+- Projects: covid19colombia.com | datatul.com | fraude-720ad.firebaseapp.com
