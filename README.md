@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning & Deep Learning by myself.
 - 🎓 I'm currently studying data science at university in Colombia.
 - 👯 I’m looking to collaborate on Machine Learning projects and solving real problems.
-- 💬 Ask me about APIs, Java, Python, Cloud computing, Microservices & NLP.
+- 💬 Ask me about APIs, Java, Python, Cloud computing, Microservices & Sentiment Analysis.
 - 📫 How to reach me: @jfreddypuentes on Twitter
 
 - 🌐 [CovidColombia](https://covid19colombia.com) | [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com)
