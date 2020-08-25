@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about APIs, Java, Python, Cloud computing, Microservices & Sentiment Analysis.
 - 📫 How to reach me: @jfreddypuentes on Twitter
 
-- 🌐 [CovidColombia](https://covid19colombia.com) | [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com)
+- 🌐 **Projects:** [CovidColombia](https://covid19colombia.com) | [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com)
