@@ -1,4 +1,4 @@
-### Hola! Qué tal? 👋
+### Hola! Qué tal? 👋 Hi how are you?
 
 <!--
 **jfreddypuentes/jfreddypuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about APIs, Java, Python, Cloud computing, Microservices & Sentiment Analysis.
 - 📫 How to reach me: [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter or on [My Web Site](https://whoisjhonpuentes.web.app/)
 
-- 🌐  **Projects:** [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [CovidColombia](https://covid19colombia.com) | 
+- 🌐  **Projects:** [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [NLP Chat](https://nlpchat.web.app/) | [CovidColombia](https://covid19colombia.com)
