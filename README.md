@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as head of engineering and software development.
-- 🌱 I’m currently learning Machine Learning & Deep Learning by myself.
-- 🎓 I'm currently studying data science at university in Colombia.
+- 🔭 I’m currently **working** as head of engineering and software development.
+- 🌱 I’m currently **learning** Machine Learning & Deep Learning by myself.
+- 🎓 I'm currently **studying** data science at university in Colombia.
 - 👯 I’m looking to collaborate on Open sources and Machine Learning projects and solving real problems.
 - 💬 Ask me about APIs, Java, Python, Cloud computing, Microservices & Sentiment Analysis.
 - 📫 How to reach me: [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter or on my website: [whoisjhonpuentes](https://whoisjhonpuentes.web.app/)
