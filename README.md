@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on software development. (backend)
+- 🔭 I’m currently working as head of engineering and software development.
 - 🌱 I’m currently learning Machine Learning & Deep Learning by myself.
 - 🎓 I'm currently studying data science at university in Colombia.
 - 👯 I’m looking to collaborate on Open sources and Machine Learning projects and solving real problems.
