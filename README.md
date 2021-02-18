@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🤔 I want to learn more about management of high performance engineering teams. 
 - 📫 How to reach me: [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter or on my website: [whoisjhonpuentes](https://whoisjhonpuentes.web.app/)
 
-- 🌐  **Projects:** [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [NLP Chat](https://nlpchat.web.app/) | [CovidColombia](https://covid19colombia.com)
+- 🌐  **Projects:** [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [NLP Chat](https://nlpchat.web.app/) | [Spanlp](https://pypi.org/project/spanlp/)
