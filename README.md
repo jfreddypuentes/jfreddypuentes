@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter or on my website: [whoisjhonpuentes](https://whoisjhonpuentes.web.app/)
 
 - 🌐  **Projects:** [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [NLP Chat](https://nlpchat.web.app/) | [Spanlp](https://pypi.org/project/spanlp/)
+
+
+- 📺 Visit [my Youtube Channel](https://www.youtube.com/channel/UCeQ2LduKNIZ7k3ndXvffuDw)
