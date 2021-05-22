@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently **working** as software engineering leader and software development.
 - 👯 I’m looking to **collaborate** on Open sources and solving real problems with tech.
 - 💬 Ask me about APIs, Programming, Cloud computing, Microservices & Sentiment Analysis.
+- 💬 programming languages I master the most: final String first = "JAVA";  second = "PYTHON" & const third = "JAVASCRIPT";
 - 🤔 I want to learn more about management of high performance engineering teams. 
 - 📫 How to reach me: [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter or on my website: [whoisjhonpuentes](https://whoisjhonpuentes.web.app/)
 
