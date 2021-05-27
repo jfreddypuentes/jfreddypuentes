@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🤔 I want to learn more about management of high performance engineering teams. 
 - 📫 How to reach me: [@jfreddypuentes](https://twitter.com/jfreddypuentes) on Twitter or on my website: [whoisjhonpuentes](https://whoisjhonpuentes.web.app/)
 
-- 🌐  **Projects:** [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [NLP Chat](https://nlpchat.web.app/) | [Spanlp](https://pypi.org/project/spanlp/)
+- 🌐  **Projects:** [dbx](https://github.com/jfreddypuentes/dbx) | [Spanlp](https://pypi.org/project/spanlp/) | [Datatul](http://www.datatul.com) | [Fraude](http://fraude-720ad.firebaseapp.com) | [NLP Chat](https://nlpchat.web.app/)
 
 
 - 📺 Visit [my Youtube Channel](https://www.youtube.com/channel/UCeQ2LduKNIZ7k3ndXvffuDw)
