@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 
 
 - 📺 Visit [my Youtube Channel](https://www.youtube.com/channel/UCeQ2LduKNIZ7k3ndXvffuDw)
+
+<strong>My Daily DevCard</strong>
+<a href="https://app.daily.dev/jfreddypuentes">
+  <img src="https://api.daily.dev/devcards/2c948225c0e54911b987aa24cd527ac7.png?r=o08" width="400" alt="Jhon Freddy Puentes's Dev Card"/>
+</a>
